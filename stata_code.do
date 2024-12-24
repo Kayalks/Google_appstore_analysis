@@ -1,4 +1,4 @@
-use "C:\Users\kk01426\OneDrive - University of Surrey\Documents\stats\googleapps.dta"
+use "~\stats\googleapps.dta"
 
 // General Data Analysis:
 describe
