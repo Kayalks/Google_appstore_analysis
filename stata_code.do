@@ -1,4 +1,4 @@
-use "~\stats\googleapps.dta"
+use "~\data\googleapps.dta"
 
 // General Data Analysis:
 describe
